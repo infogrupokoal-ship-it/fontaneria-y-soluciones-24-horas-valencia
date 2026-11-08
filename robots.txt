@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://infogrupokoal-ship-it.github.io/fontaneria-y-soluciones-24-horas-valencia/sitemap.xml
